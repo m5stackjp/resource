@@ -2,11 +2,11 @@
   "packages": [
     {
       "name": "m5stack",
-      "maintainer": "M5Stack official",
-      "websiteURL": "https://github.com/m5stack",
-      "email": " support@m5stack.com",
+      "maintainer": "M5StackJP",
+      "websiteURL": "https://github.com/m5stackjp",
+      "email": " support@m5stack.jp",
       "help": {
-        "online": "https://forum.m5stack.com/"
+        "online": "https://github.com/m5stackjp/m5stackjp/discussions"
       },
       "platforms": [
         {
